@@ -1,0 +1,53 @@
+.body-border {
+    border: 3px solid darkgreen;
+    height: 600px;
+}
+.rect{
+    position: relative;
+    width: 500px;
+    height: 300px;
+    background-color: green;
+}
+.circle{
+    position: absolute;
+    left: 140px;
+    top: 40px;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.g-up{
+    width: 500px;
+    height: 100px;
+    background-color: black;
+}
+.g-mid{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+}
+.g-down{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+.circle-art {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.active-link {
+    font-weight: bolder;
+    border: 2px solid yellow;
+}
+
